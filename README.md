@@ -21,13 +21,13 @@
 
 ## vars.py [vars.py](https://github.com/SudoR2spr/txt-leech-bot/blob/main/modules/vars.py)
 
-* BOT_TOKEN  - 7495845718:AAFWpgMI97godgsuwAxx8mK_YySWGeRMz6I
+* BOT_TOKEN  - Get Bot Token From @BotFather
 
-* API_ID - 28526237
+* API_ID - From my.telegram.org 
 
-* API_HASH - 936db76a74f9a52cfb2cea8a62e4c20e
+* API_HASH - From my.telegram.org
 
-* OWNER_ID - 6486192717
+* OWNER_ID - From @MissRose_bot [Rose Mam](https://t.me/MissRose_bot)
 
 * SUDO_USERS - AUTH Or Bot Controllers Id's Multiple Id Use Space To Split
 
